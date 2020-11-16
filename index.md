@@ -1,28 +1,29 @@
 <!DOCTYPE html>
 <html lang="tw">
 <head>
-<meta charset="utf-8">
-<title>vtube推廣協會</title>
-<meta name="description" content="文化觀光/旅遊介紹">
-<link href='mycss.css' rel='stylesheet' type='text/css'>
+     <meta charset="utf-8">
+     <title>vtube推廣協會</title>
+     <meta name="description" content="文化觀光/旅遊介紹">
+     <link rel="stylesheet" href="style.css">
 
 </head>
 
-<main>
-<div class="mainvisual">
-<img src="https://upload.wikimedia.org/wikipedia/zh/5/5f/Hololive_full_logo.png" alt="主視覺圖片" width="760" height="340">
-</div>
 <body>
 <header>
 <h1>vtube推廣協會</h1>
 <nav class="navigation">
 <u1>
-<li><a href="https://www.hololive.tv/">hololive</a></li>
-<li><a href="#profile">成員介紹</a></li>
+<li><a href="#profile01">成員介紹</a></li>
+<li><a href="#profile">hololive介紹</a></li>
 <li><a href="#concert">精華片段</a></li>
-<li><a href="book.xml">收藏的圖書</a></li>
+<li><a href="book.xml">hololive官方網站</a></li>
 <li><a href="form.htm">設計的表單</a></li>
 
+<main>
+<div class="mainvisual">
+<img src="https://truth.bahamut.com.tw/s01/202001/dbc6a19999e23ff2d59bed88f841e55f.JPG" alt="主視覺圖片" width="760" height="340">
+</div>
+
 </ul>
 </nav>
 </header>
@@ -30,7 +31,7 @@
 </nav>
 </header>
 
-<article id="profile">
+<article id="profile01">
 <div class="inner">
 <h2>成員介紹</h2>
 <p>成員介紹</p>
@@ -49,7 +50,7 @@
 </article>
 
 <article id="concert">
-<h2>個人作品集</h2>
+<h2>精華片段</h2>
 <p>歷年作品</p>
 <section>
 <h3>個人簡歷</h3>
